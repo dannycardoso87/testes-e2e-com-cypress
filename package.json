@@ -1,5 +1,5 @@
 {
-  "name": "proposify",
+  "name": "testes-e2e-com-cypress",
   "version": "1.0.0",
   "description": "TBD.",
   "main": "cypress.config.js",
