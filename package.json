@@ -23,6 +23,7 @@
     "cypress-file-upload": "^5.0.8",
     "cypress-iframe": "^1.0.1",
     "cypress-mailosaur": "^2.13.0",
+    "cypress-plugin-steps": "^1.1.1",
     "eslint": "^8.43.0",
     "eslint-plugin-cypress": "^2.13.3"
   },
