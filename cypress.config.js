@@ -10,10 +10,7 @@ module.exports = defineConfig({
     },
     defaultCommandTimeout: 5000,
     requestTimeout: 6000,
-    //eslint-disable-next-line no-unused-vars
-    setupNodeEvents(on, config) {
-      // implement node event listeners here
-    },
     video: true,
   },
+  projectId: 'h14e78',
 })
